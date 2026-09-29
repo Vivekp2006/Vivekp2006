@@ -12,7 +12,7 @@
 <p>
   <a href="https://vivek.sqstudio.in"><img src="https://img.shields.io/badge/Portfolio-vivek.sqstudio.in-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/vivekprajapati4864"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vkp2006@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:vkpn2006@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p>
@@ -36,7 +36,7 @@
 | **Live products** | [MakeTheStartup.com](https://makethestartup.com) · [SachBol](https://sachbol.tech) · [ApnaStore](https://apnasstore.com) |
 | **Education** | B.Tech, Computer Science, Sharda University (2024 – Present) |
 | **Portfolio** | [vivek.sqstudio.in](https://vivek.sqstudio.in) |
-| **Contact** | [vkp2006@gmail.com](mailto:vkp2006@gmail.com) |
+| **Contact** | [vkpn2006@gmail.com](mailto:vkpn2006@gmail.com) |
 
 <div align="center">
   <img src="assets/divider.svg" width="100%" alt="" />
@@ -394,7 +394,7 @@ Which one is the lie?
 ```text
 > you found the hidden level
 > reward unlocked: a coffee chat
-> say hi at vkp2006@gmail.com
+> say hi at vkpn2006@gmail.com
 ```
 
 </details>
@@ -439,7 +439,7 @@ Which one is the lie?
 <a href="https://vivek.sqstudio.in"><img src="https://img.shields.io/badge/Portfolio-vivek.sqstudio.in-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/vivekprajapati4864"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Vivekp2006"><img src="https://img.shields.io/badge/GitHub-Vivekp2006-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:vkp2006@gmail.com"><img src="https://img.shields.io/badge/Email-vkp2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:vkpn2006@gmail.com"><img src="https://img.shields.io/badge/Email-vkpn2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
