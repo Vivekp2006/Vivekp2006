@@ -1,23 +1,46 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&height=50&lines=Vivek+Kumar+Prajapati;Software+Engineer;Full-Stack+Developer;AI+%26+LLM+Enthusiast;Founder+of+MakeTheStartup.com" alt="Typing animation: Vivek Kumar Prajapati - Software Engineer, Full-Stack Developer, AI and LLM Enthusiast, Startup Builder" />
+<img src="assets/banner.svg" alt="Vivek Kumar Prajapati - Software Engineer, Full-Stack Developer, AI and LLM Enthusiast" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+web+applications;Shipping+AI-powered+products;Founder+of+MakeTheStartup.com;Open+to+Software+Engineer+%7C+AI+Engineer+roles" alt="Typing animation of what I do" />
 
 <p>
   <b>Software Engineer | Full-Stack Developer | AI &amp; LLM Enthusiast | Cloud &amp; AWS | DevOps | Startup Builder</b><br />
-  Building scalable web applications, AI-powered products &amp; innovative digital solutions.<br />
-  Founder of <a href="https://makethestartup.com">MakeTheStartup.com</a> &nbsp;·&nbsp; Tech Team Lead at SemiQuantum
+  Building scalable web applications, AI-powered products &amp; innovative digital solutions.
 </p>
 
 <p>
-  <a href="https://github.com/Vivekp2006"><img src="https://img.shields.io/badge/GitHub-Vivekp2006-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="mailto:vkp2006@gmail.com"><img src="https://img.shields.io/badge/Email-vkp2006%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://vivek.sqstudio.in"><img src="https://img.shields.io/badge/Portfolio-vivek.sqstudio.in-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/vivekprajapati4864"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vkp2006@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Open_to_Work-Software_Engineer_%7C_Full--Stack_%7C_AI_Engineer-3fb950?style=flat-square" alt="Open to work" />
   <a href="https://github.com/Vivekp2006?tab=followers"><img src="https://img.shields.io/github/followers/Vivekp2006?style=flat-square&logo=github&label=Followers" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=Vivekp2006&amp;label=Profile+Views&amp;color=2F81F7&amp;style=flat-square" alt="Profile views" />
 </p>
 
+<img src="assets/skills-marquee.svg" alt="Technologies I work with" width="100%" />
+
 </div>
 
----
+## 🎯 Recruiter Snapshot
+
+| | |
+| :--- | :--- |
+| **Looking for** | Software Engineer · Full-Stack Developer · AI / LLM Engineer roles |
+| **Core skills** | JavaScript, React, Node.js, Python, LLM apps, RAG, LangChain, MongoDB, PostgreSQL, MySQL, AWS, Google Cloud |
+| **Current roles** | Founder, [MakeTheStartup.com](https://makethestartup.com) · Tech Team Lead, SemiQuantum · DBA, E-Cell Sharda · Core Tech Team, [ONC Sharda](https://onc.shardatech.org) |
+| **Experience** | AI & Automation Intern (Aug – Oct 2025) · Web Development Intern (Jun – Jul 2026) |
+| **Live products** | [MakeTheStartup.com](https://makethestartup.com) · [SachBol](https://sachbol.tech) · [ApnaStore](https://apnasstore.com) |
+| **Education** | B.Tech, Computer Science, Sharda University (2024 – Present) |
+| **Portfolio** | [vivek.sqstudio.in](https://vivek.sqstudio.in) |
+| **Contact** | [vkp2006@gmail.com](mailto:vkp2006@gmail.com) |
+
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 👋 About Me
 
@@ -40,7 +63,9 @@ web development · ai / llm apps · software engineering
 automation · startups · saas · developer tools
 ```
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +79,9 @@ automation · startups · saas · developer tools
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🎮 Developer Profile
 
@@ -98,7 +125,9 @@ automation · startups · saas · developer tools
 | **Aug 2025 – Oct 2025** | AI & Automation Intern at SemiQuantum Technologies: AI integrations, prompt engineering workflows, API-based AI agents |
 | **Jun 2026 – Jul 2026** | Web Development Intern at SemiQuantum Technologies: full-stack platforms, REST APIs, authentication, admin dashboards, Vercel deployments |
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## ⭐ Featured Projects
 
@@ -145,7 +174,9 @@ automation · startups · saas · developer tools
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🤖 AI / LLM Projects
 
@@ -159,7 +190,9 @@ automation · startups · saas · developer tools
 | [SemiVerse](https://github.com/semiquantum/SemiVerse) | AI / LLM-related project repository. |
 | [typeverse](https://github.com/semiquantum/typeverse) | AI / LLM-related project repository. |
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🚀 Startup / Product Projects
 
@@ -175,7 +208,9 @@ automation · startups · saas · developer tools
 | [xtrapo](https://github.com/vivkumar4864/xtrapo) | Repository I worked on as part of my development and project work. |
 | [skilliant](https://github.com/semiquantum/skilliant) | Repository I worked on as part of my development and project work. |
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 💻 Development / Programming Projects
 
@@ -191,7 +226,9 @@ automation · startups · saas · developer tools
 | [VarshX](https://github.com/Vivekp2006/VarshX) | Repository I worked on as part of my development and project work. |
 | [GuruCode](https://github.com/semiquantum/GuruCode) | Repository I worked on as part of my development and project work. |
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🎓 Education / School / Community Projects
 
@@ -202,13 +239,17 @@ automation · startups · saas · developer tools
 | [raghubirschool](https://github.com/vivkumar4864/raghubirschool) | Repository I worked on as part of my development and project work. |
 | [SQ-APEX](https://github.com/semiquantum/SQ-APEX) | SQ Apex web platform, built during my Web Development internship at SemiQuantum Technologies. |
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🤝 Collaboration
 
 I've also collaborated with other developers on **10+ repositories** across web, app, and product projects.
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 📂 Complete Repository Directory
 
@@ -253,9 +294,29 @@ I've also collaborated with other developers on **10+ repositories** across web,
 
 </details>
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🕹️ Play Around
+
+### 🐟 Tech Aquarium
+
+<div align="center">
+  <img src="assets/aquarium.svg" alt="Animated aquarium where every fish is a technology I use" width="100%" />
+  <br />
+  <sub>Every fish is a technology I work with.</sub>
+</div>
+
+### 🐍 Snake Eats My Tech Stack
+
+<div align="center">
+  <img src="assets/snake.svg" alt="Animated snake eating the technologies in my tech stack" width="100%" />
+  <br /><br />
+  <a href="https://vivekp2006.github.io/Vivekp2006/play.html"><img src="https://img.shields.io/badge/Play-Tech_Snake_(keyboard_or_swipe)-3fb950?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Play Tech Snake" /></a>
+</div>
+
+### 🧩 Mini Challenges
 
 <details>
 <summary><b>🧠 Guess the Output</b> (JavaScript edition)</summary>
@@ -338,7 +399,9 @@ Which one is the lie?
 
 </details>
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 📊 GitHub Statistics
 
@@ -365,23 +428,27 @@ Which one is the lie?
 
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 📬 Connect With Me
 
 <div align="center">
 
+<a href="https://vivek.sqstudio.in"><img src="https://img.shields.io/badge/Portfolio-vivek.sqstudio.in-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/vivekprajapati4864"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Vivekp2006"><img src="https://img.shields.io/badge/GitHub-Vivekp2006-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:vkp2006@gmail.com"><img src="https://img.shields.io/badge/Email-vkp2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 <div align="center">
-
-**Build • Learn • Experiment • Ship**
-
-<sub>Thanks for stopping by.</sub>
-
+  <img src="assets/footer.svg" alt="Build, Learn, Experiment, Ship" width="100%" />
+  <br />
+  <sub>Thanks for stopping by. Let's build something together.</sub>
 </div>
