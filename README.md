@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&height=50&lines=Vivek+Kumar+Prajapati;Software+Engineer;Full-Stack+Developer;AI+%26+LLM+Enthusiast;Startup+Builder" alt="Typing animation: Vivek Kumar Prajapati - Software Engineer, Full-Stack Developer, AI and LLM Enthusiast, Startup Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&height=50&lines=Vivek+Kumar+Prajapati;Software+Engineer;Full-Stack+Developer;AI+%26+LLM+Enthusiast;Founder+of+MakeTheStartup.com" alt="Typing animation: Vivek Kumar Prajapati - Software Engineer, Full-Stack Developer, AI and LLM Enthusiast, Startup Builder" />
 
 <p>
   <b>Software Engineer | Full-Stack Developer | AI &amp; LLM Enthusiast | Cloud &amp; AWS | DevOps | Startup Builder</b><br />
-  Building scalable web applications, AI-powered products &amp; innovative digital solutions.
+  Building scalable web applications, AI-powered products &amp; innovative digital solutions.<br />
+  Founder of <a href="https://makethestartup.com">MakeTheStartup.com</a> &nbsp;·&nbsp; Tech Team Lead at SemiQuantum
 </p>
 
 <p>
@@ -22,9 +23,12 @@
 
 I'm **Vivek Kumar Prajapati**, a Computer Science undergraduate and full-stack developer who enjoys turning ideas into working products. My work sits at the intersection of **web development**, **AI / LLM applications**, **automation**, and **startups**.
 
-- Founder of **SemiQuantum**, building AI tools, technical solutions, and product ecosystems.
+- Founder of **[MakeTheStartup.com](https://makethestartup.com)**.
+- Tech Team Lead at **SemiQuantum**, building AI tools and technical solutions.
+- Database Administrator (DBA) at **E-Cell Sharda** and core tech team member at **[ONC Sharda](https://onc.shardatech.org)**.
 - Experience building full-stack platforms with authentication, admin dashboards, REST APIs, and payment integrations.
-- Hands-on with the OpenAI API: chat agents, prompt engineering workflows, and fine-tuning experiments.
+- Hands-on with the OpenAI API, RAG systems, and LangChain: chat agents, prompt engineering workflows, and fine-tuning experiments.
+- Comfortable with cloud (AWS, Google Cloud) and SQL databases (MySQL, PostgreSQL).
 - Interested in SaaS products and developer tools.
 
 ```text
@@ -45,10 +49,10 @@ automation · startups · saas · developer tools
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=flat-square&logo=fastapi&logoColor=white) |
-| **Database** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **AI / LLM** | ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![AI APIs](https://img.shields.io/badge/AI_APIs-6E40C9?style=flat-square) ![LLM Apps](https://img.shields.io/badge/LLM_Applications-6E40C9?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=flat-square) |
+| **Database** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **AI / LLM** | ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![AI APIs](https://img.shields.io/badge/AI_APIs-6E40C9?style=flat-square) ![LLM Apps](https://img.shields.io/badge/LLM_Applications-6E40C9?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=flat-square) ![RAG Systems](https://img.shields.io/badge/RAG_Systems-6E40C9?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-6E40C9?style=flat-square) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
 
 ---
 
@@ -60,12 +64,21 @@ automation · startups · saas · developer tools
 | :--- | :--- |
 | **Class** | Full-Stack Developer |
 | **Specialization** | AI / LLM Applications |
-| **Guild** | [SemiQuantum](https://github.com/semiquantum) (founder) |
-| **Main Weapons** | JavaScript · React · Node.js · MongoDB · OpenAI API |
+| **Guild** | SemiQuantum (Tech Team Lead) |
+| **Main Weapons** | JavaScript · React · Node.js · MongoDB · PostgreSQL · OpenAI API · LangChain |
 | **Home Base** | Sharda University: B.Tech, Computer Science (2024 – Present) |
 | **Current Quest** | Building products and shipping them live |
 
 </div>
+
+### 💼 Current Roles
+
+| Role | Where |
+| :--- | :--- |
+| **Founder** | [MakeTheStartup.com](https://makethestartup.com) |
+| **Tech Team Lead** | SemiQuantum |
+| **Database Administrator (DBA)** | E-Cell Sharda |
+| **Core Tech Team Member** | [ONC Sharda](https://onc.shardatech.org) |
 
 ### 🏆 Achievements Unlocked
 
@@ -73,13 +86,14 @@ automation · startups · saas · developer tools
 | :---: | :--- | :--- |
 | 🚀 | **Launch Day** | Launched multiple live platforms, including [SachBol](https://sachbol.tech), ApnaStore ([apnasstore.com](https://apnasstore.com)), and SemiQuantum. |
 | 🤖 | **Automation Architect** | Built AI-powered automation systems, including an Instagram auto-reply bot. |
-| 🏗️ | **Founder Mode** | Founded SemiQuantum to build AI tools, technical solutions, and product ecosystems. |
+| 🏗️ | **Founder Mode** | Founder of [MakeTheStartup.com](https://makethestartup.com). |
 | 🧪 | **Prompt Alchemist** | Prompt engineering workflows and fine-tuning experiments with the OpenAI API. |
 
 ### 🗺️ Quest Log
 
 | When | Quest |
 | :--- | :--- |
+| **Present** | Tech Team Lead at SemiQuantum · DBA at E-Cell Sharda · Core tech team member at ONC Sharda |
 | **Aug 2024 – Present** | B.Tech in Computer Science at Sharda University, Greater Noida |
 | **Aug 2025 – Oct 2025** | AI & Automation Intern at SemiQuantum Technologies: AI integrations, prompt engineering workflows, API-based AI agents |
 | **Jun 2026 – Jul 2026** | Web Development Intern at SemiQuantum Technologies: full-stack platforms, REST APIs, authentication, admin dashboards, Vercel deployments |
@@ -130,8 +144,6 @@ automation · startups · saas · developer tools
     </td>
   </tr>
 </table>
-
-> Repositories owned by other developers are listed separately under [Collaboration](#-collaboration--other-repositories).
 
 ---
 
@@ -189,25 +201,12 @@ automation · startups · saas · developer tools
 | [School](https://github.com/vivkumar4864/School) | Repository I worked on as part of my development and project work. |
 | [raghubirschool](https://github.com/vivkumar4864/raghubirschool) | Repository I worked on as part of my development and project work. |
 | [SQ-APEX](https://github.com/semiquantum/SQ-APEX) | SQ Apex web platform, built during my Web Development internship at SemiQuantum Technologies. |
-| [ShubhamRaz/srhs](https://github.com/ShubhamRaz/srhs) | Collaborative repository. |
 
 ---
 
-## 🤝 Collaboration / Other Repositories
+## 🤝 Collaboration
 
-> I've collaborated on **10+ repositories** owned by other developers, some like these. They are **not my own repositories**, so the owner name is shown.
-
-| Repository | Type |
-| :--- | :--- |
-| [ShubhamRaz/appasstore](https://github.com/ShubhamRaz/appasstore) | Collaborative / other repository |
-| [ShubhamRaz/client1-web](https://github.com/ShubhamRaz/client1-web) | Collaborative / other repository |
-| [ShubhamRaz/DigitalHealthCare](https://github.com/ShubhamRaz/DigitalHealthCare) | Collaborative / other repository |
-| [ShubhamRaz/kammell](https://github.com/ShubhamRaz/kammell) | Collaborative / other repository |
-| [jhaharsh119/SachBol](https://github.com/jhaharsh119/SachBol) | Collaborative / other repository |
-| [maybenitesh/skinaura](https://github.com/maybenitesh/skinaura) | Collaborative / other repository |
-| [Astuti04p/BusLink24](https://github.com/Astuti04p/BusLink24) | Collaborative / other repository |
-| [aman40399/ONC_WEB](https://github.com/aman40399/ONC_WEB) | Collaborative / other repository |
-| [sakettiwari133-oss/Reward](https://github.com/sakettiwari133-oss/Reward) | Collaborative / other repository |
+I've also collaborated with other developers on **10+ repositories** across web, app, and product projects.
 
 ---
 
@@ -218,8 +217,6 @@ automation · startups · saas · developer tools
 
 <br />
 
-Repositories marked *(collaborative)* are owned by other developers.
-
 1. [sqstudio.in](https://github.com/semiquantum/sqstudio.in)
 2. [makethestartup](https://github.com/Vivekp2006/makethestartup)
 3. [SachBol](https://github.com/semiquantum/SachBol)
@@ -227,42 +224,32 @@ Repositories marked *(collaborative)* are owned by other developers.
 5. [SemiVerse](https://github.com/semiquantum/SemiVerse)
 6. [bot](https://github.com/semiquantum/bot)
 7. [typeverse](https://github.com/semiquantum/typeverse)
-8. [ShubhamRaz/appasstore](https://github.com/ShubhamRaz/appasstore) *(collaborative)*
-9. [semivarsh](https://github.com/vivkumar4864/semivarsh)
-10. [prajapatielectrical](https://github.com/semiquantum/prajapatielectrical)
-11. [GuruCode](https://github.com/semiquantum/GuruCode)
-12. [ShubhamRaz/client1-web](https://github.com/ShubhamRaz/client1-web) *(collaborative)*
-13. [skilliant](https://github.com/semiquantum/skilliant)
-14. [bott](https://github.com/Vivekp2006/bott)
-15. [SQ-InnovateX](https://github.com/semiquantum/SQ-InnovateX)
-16. [sqstudio](https://github.com/semiquantum/sqstudio)
-17. [Ecell](https://github.com/Vivekp2006/Ecell)
-18. [School](https://github.com/vivkumar4864/School)
-19. [Apppointment](https://github.com/semiquantum/Apppointment)
-20. [SQ-APEX](https://github.com/SEMIQUANTUM-TECHNOLOGIES/SQ-APEX)
-21. [growzone](https://github.com/semiquantum/growzone)
-22. [Java](https://github.com/Vivekp2006/Java)
-23. [Proxy-Simulator](https://github.com/Vivekp2006/Proxy-Simulator)
-24. [Go-COCO](https://github.com/Vivekp2006/Go-COCO)
-25. [jhaharsh119/SachBol](https://github.com/jhaharsh119/SachBol) *(collaborative)*
-26. [maybenitesh/skinaura](https://github.com/maybenitesh/skinaura) *(collaborative)*
-27. [ShubhamRaz/DigitalHealthCare](https://github.com/ShubhamRaz/DigitalHealthCare) *(collaborative)*
-28. [Law_LMM](https://github.com/Vivekp2006/Law_LMM)
-29. [Astuti04p/BusLink24](https://github.com/Astuti04p/BusLink24) *(collaborative)*
-30. [xtrapo](https://github.com/vivkumar4864/xtrapo)
-31. [prajapatielectrical01](https://github.com/semiquantum/prajapatielectrical01)
-32. [wpbot](https://github.com/semiquantum/wpbot)
-33. [ShubhamRaz/srhs](https://github.com/ShubhamRaz/srhs) *(collaborative)*
-34. [sakettiwari133-oss/Reward](https://github.com/sakettiwari133-oss/Reward) *(collaborative)*
-35. [fluttertest](https://github.com/Vivekp2006/fluttertest)
-36. [chatbot](https://github.com/semiquantum/chatbot)
-37. [SachBol](https://github.com/Vivekp2006/SachBol)
-38. [aman40399/ONC_WEB](https://github.com/aman40399/ONC_WEB) *(collaborative)*
-39. [ShubhamRaz/kammell](https://github.com/ShubhamRaz/kammell) *(collaborative)*
-40. [VarshX](https://github.com/Vivekp2006/VarshX)
-41. [Chat](https://github.com/Vivekp2006/Chat)
-42. [ONC_WEB](https://github.com/Vivekp2006/ONC_WEB)
-43. [onc_2006](https://github.com/Vivekp2006/onc_2006)
+8. [semivarsh](https://github.com/vivkumar4864/semivarsh)
+9. [prajapatielectrical](https://github.com/semiquantum/prajapatielectrical)
+10. [GuruCode](https://github.com/semiquantum/GuruCode)
+11. [skilliant](https://github.com/semiquantum/skilliant)
+12. [bott](https://github.com/Vivekp2006/bott)
+13. [SQ-InnovateX](https://github.com/semiquantum/SQ-InnovateX)
+14. [sqstudio](https://github.com/semiquantum/sqstudio)
+15. [Ecell](https://github.com/Vivekp2006/Ecell)
+16. [School](https://github.com/vivkumar4864/School)
+17. [Apppointment](https://github.com/semiquantum/Apppointment)
+18. [SQ-APEX](https://github.com/SEMIQUANTUM-TECHNOLOGIES/SQ-APEX)
+19. [growzone](https://github.com/semiquantum/growzone)
+20. [Java](https://github.com/Vivekp2006/Java)
+21. [Proxy-Simulator](https://github.com/Vivekp2006/Proxy-Simulator)
+22. [Go-COCO](https://github.com/Vivekp2006/Go-COCO)
+23. [Law_LMM](https://github.com/Vivekp2006/Law_LMM)
+24. [xtrapo](https://github.com/vivkumar4864/xtrapo)
+25. [prajapatielectrical01](https://github.com/semiquantum/prajapatielectrical01)
+26. [wpbot](https://github.com/semiquantum/wpbot)
+27. [fluttertest](https://github.com/Vivekp2006/fluttertest)
+28. [chatbot](https://github.com/semiquantum/chatbot)
+29. [SachBol](https://github.com/Vivekp2006/SachBol)
+30. [VarshX](https://github.com/Vivekp2006/VarshX)
+31. [Chat](https://github.com/Vivekp2006/Chat)
+32. [ONC_WEB](https://github.com/Vivekp2006/ONC_WEB)
+33. [onc_2006](https://github.com/Vivekp2006/onc_2006)
 
 </details>
 
